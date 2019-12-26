@@ -3701,15 +3701,15 @@ searchbar,
  * Tooltips *
  ************/
 tooltip {
-  color: #d5dae5;
+  color: #040507;
   padding: 4px;
   /* not working */
   border-radius: 3px;
   box-shadow: none;
   text-shadow: none;
-  border: 1px solid #595c5c; }
+  border: 1px solid #22303f; }
   tooltip.background {
-    background-color: #21262f;
+    background-color: #648db8;
     background-clip: padding-box; }
   tooltip.window-frame.csd {
     background-color: transparent;
@@ -3720,7 +3720,7 @@ tooltip {
 tooltip * {
   padding: 0px;
   background-color: transparent;
-  color: #d5dae5; }
+  color: #040507; }
 
 /**************
  * Tree Views *
